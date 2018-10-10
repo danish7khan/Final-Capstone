@@ -1,1 +1,2 @@
-# Final-Capstone
+# Coursera_Capstone
+Applied Data Science Capstone assignment
